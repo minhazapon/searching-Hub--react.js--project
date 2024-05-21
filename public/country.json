@@ -1,0 +1,184 @@
+
+
+[
+    {
+        "country": "United States",
+        "capital": "Washington, D.C.",
+        "population": 331002651,
+        "area_km2": 9833517,
+        "currency": "US Dollar",
+        "languages": ["English"],
+        "image": "https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg"
+    },
+    {
+        "country": "Canada",
+        "capital": "Ottawa",
+        "population": 37742154,
+        "area_km2": 9984670,
+        "currency": "Canadian Dollar",
+        "languages": ["English", "French"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/800px-Flag_of_Canada_%28Pantone%29.svg.png"
+    },
+    {
+        "country": "Brazil",
+        "capital": "Brasília",
+        "population": 212559417,
+        "area_km2": 8515767,
+        "currency": "Brazilian Real",
+        "languages": ["Portuguese"],
+        "image": "https://cdn.britannica.com/47/6847-050-075C3C65/Flag-Brazil.jpg"
+    },
+    {
+        "country": "Germany",
+        "capital": "Berlin",
+        "population": 83783942,
+        "area_km2": 357022,
+        "currency": "Euro",
+        "languages": ["German"],
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/640px-Flag_of_Germany.svg.png"
+    },
+    {
+        "country": "India",
+        "capital": "New Delhi",
+        "population": 1380004385,
+        "area_km2": 3287263,
+        "currency": "Indian Rupee",
+        "languages": ["Hindi", "English"],
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+    },
+    {
+        "country": "Australia",
+        "capital": "Canberra",
+        "population": 25687041,
+        "area_km2": 7692024,
+        "currency": "Australian Dollar",
+        "languages": ["English"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1200px-Flag_of_Australia_%28converted%29.svg.png"
+    },
+    {
+        "country": "China",
+        "capital": "Beijing",
+        "population": 1439323776,
+        "area_km2": 9596961,
+        "currency": "Renminbi",
+        "languages": ["Chinese"],
+        "image": "https://www.shutterstock.com/image-illustration/this-best-original-national-flag-600nw-1993614071.jpg"
+    },
+    {
+        "country": "Japan",
+        "capital": "Tokyo",
+        "population": 126476461,
+        "area_km2": 377930,
+        "currency": "Japanese Yen",
+        "languages": ["Japanese"],
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
+    },
+    {
+        "country": "Russia",
+        "capital": "Moscow",
+        "population": 145934462,
+        "area_km2": 17098242,
+        "currency": "Russian Ruble",
+        "languages": ["Russian"],
+        "image": "https://cdn.britannica.com/42/3842-050-68EEE2C4/Flag-Russia.jpg"
+    },
+    {
+        "country": "United Kingdom",
+        "capital": "London",
+        "population": 67886011,
+        "area_km2": 243610,
+        "currency": "Pound Sterling",
+        "languages": ["English"],
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png"
+    },
+    {
+        "country": "France",
+        "capital": "Paris",
+        "population": 65273511,
+        "area_km2": 551695,
+        "currency": "Euro",
+        "languages": ["French"],
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"
+    },
+    {
+        "country": "South Africa",
+        "capital": ["Pretoria", "Bloemfontein", "Cape Town"],
+        "population": 59308690,
+        "area_km2": 1221037,
+        "currency": "South African Rand",
+        "languages": ["Zulu", "Xhosa", "Afrikaans", "English", "others"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png"
+    },
+    {
+        "country": "Mexico",
+        "capital": "Mexico City",
+        "population": 128932753,
+        "area_km2": 1964375,
+        "currency": "Mexican Peso",
+        "languages": ["Spanish"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png"
+    },
+    {
+        "country": "Italy",
+        "capital": "Rome",
+        "population": 60244639,
+        "area_km2": 301340,
+        "currency": "Euro",
+        "languages": ["Italian"],
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+    },
+    {
+        "country": "Saudi Arabia",
+        "capital": "Riyadh",
+        "population": 34813871,
+        "area_km2": 2149690,
+        "currency": "Saudi Riyal",
+        "languages": ["Arabic"],
+        "image": "https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg"
+    },
+    {
+        "country": "South Korea",
+        "capital": "Seoul",
+        "population": 51269185,
+        "area_km2": 100210,
+        "currency": "South Korean Won",
+        "languages": ["Korean"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png"
+    },
+    {
+        "country": "Turkey",
+        "capital": "Ankara",
+        "population": 84339067,
+        "area_km2": 783356,
+        "currency": "Turkish Lira",
+        "languages": ["Turkish"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png"
+    },
+    {
+        "country": "Argentina",
+        "capital": "Buenos Aires",
+        "population": 45195774,
+        "area_km2": 2780400,
+        "currency": "Argentine Peso",
+        "languages": ["Spanish"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    {
+        "country": "Nigeria",
+        "capital": "Abuja",
+        "population": 206139589,
+        "area_km2": 923769,
+        "currency": "Nigerian Naira",
+        "languages": ["English"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1200px-Flag_of_Nigeria.svg.png"
+    },
+    {
+        "country": "Egypt",
+        "capital": "Cairo",
+        "population": 102334404,
+        "area_km2": 1002450,
+        "currency": "Egyptian Pound",
+        "languages": ["Arabic"],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png"
+    }
+]
